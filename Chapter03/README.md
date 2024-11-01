@@ -1,3 +1,12 @@
+# Tool yang penting untuk seorang Software Tester
+1. BUG MAGNET
+   Digunakan untuk test input text, emoji, karekter aneh, tulisan arab dll
+   ![image](https://github.com/user-attachments/assets/d2567d48-c564-4611-a3d9-780fd159c93e)
+2. Chrome DevTools Console
+   Inspect Elemen, UI Selector, Cek Error Console Log,   
+   ![image](https://github.com/user-attachments/assets/73371d56-6714-4d9c-84f5-744754c86d8c)
+   ![image](https://github.com/user-attachments/assets/2b61418a-6c87-45c9-8002-c068fa186e82)
+
 Test Hook
 Ada beberapa aplikasi yang populer digunakan untuk pengujian kualitas sistem. Berikut adalah beberapa contoh aplikasi yang umum digunakan dalam praktik pengujian perangkat lunak:
 1. [Selenium](https://www.selenium.dev/): Selenium adalah alat pengujian otomatis yang digunakan untuk mengotomatisasi pengujian pada aplikasi web. Ini memungkinkan pengujian fungsional dan regresi melalui perekaman dan pemutaran aksi pengguna pada browser. 
