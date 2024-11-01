@@ -72,6 +72,15 @@ disini yang akan digunakan adalah findelemen.py
 
 ![image](https://github.com/rplulbi/SQA/assets/15622730/6bf9cac0-d930-4944-b71e-fa8cf93f5773)
 
+# Tugas yang harus dikerjakan
+1. Buat folder NPM_NAMA pada Chapter03 di akun github masing-masing hasil dari fork dan update (sinc)
+2. Tambahkan README.md
+3. Upload codingan yang diuji
+4. Buatkan dokumentasi pengujian sistem pada repository masing-masing
+5. Silahkan pilih pengujian sistemnya (Selenium, JUnit, Appiu, LoadRunner, Postman, JMeter, SOnarQube, TestComplete)
+6. lakukan pengujian pada sistem yang sudah pernah dibuat
+7. deskripsikan langkahnya sesuai dengan apa yang sudah dilakukan pada README.md setelah melakukan sinkronisasi repo
+8. lakukan pull request dan selesai
 
 
 
