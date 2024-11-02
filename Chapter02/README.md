@@ -1,4 +1,4 @@
-## Apa itu Software Quality Assurance (QA) - Roni - Rafi Saumi Rustian - La Ode Saktika Awaludin Luthfi
+## Apa itu Software Quality Assurance (QA) 
 ![image](https://github.com/rplulbi/SQA/assets/15622730/cb1ad924-9ecb-443a-a6b7-7b493517c137)
 
 Software quality assurance adalah kegiatan penting dalam sebuah perangkat lunak yang diterapkan pada setiap langkah dalam proses perangkat lunak. SQA mencakup prosedur untuk penerapan metode dan alat yang efektif, pengawasan kegiatan pengendalian kualitas seperti tinjauan teknis dan pengujian perangkat lunak, prosedur untuk manajemen perubahan, prosedur untuk memastikan kepatuhan terhadap standar, dan mekanisme pengukuran dan pelaporan. Software quality assurance berkaitan dengan memastikan bahwa perangkat lunak memiliki jumlah cacat yang kecil dan mencapai standar yang diperlukan untuk pemeliharaan, keandalan, portabilitas, dan sebagainya.
